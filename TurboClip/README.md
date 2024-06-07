@@ -1,5 +1,5 @@
 # ⚡▶ TurboClip: Rev up your video editing speed
-A Python script to speed up video files using MoviePy
+A Python script to speed up and compress video files using MoviePy
 From the article [Article](https://gustavo-espindola.medium.com/)
 
 ![Preview](https://github.com/gustavoespindola/learnwithai/blob/main/TurboClip/demo_c.gif?raw=true)
